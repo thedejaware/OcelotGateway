@@ -1,0 +1,14 @@
+/Users/spdejavu/Desktop/Projects/ApiGateway/CatalogApi/bin/Debug/netcoreapp2.1/CatalogApi.deps.json
+/Users/spdejavu/Desktop/Projects/ApiGateway/CatalogApi/bin/Debug/netcoreapp2.1/CatalogApi.runtimeconfig.json
+/Users/spdejavu/Desktop/Projects/ApiGateway/CatalogApi/bin/Debug/netcoreapp2.1/CatalogApi.runtimeconfig.dev.json
+/Users/spdejavu/Desktop/Projects/ApiGateway/CatalogApi/bin/Debug/netcoreapp2.1/CatalogApi.dll
+/Users/spdejavu/Desktop/Projects/ApiGateway/CatalogApi/bin/Debug/netcoreapp2.1/CatalogApi.pdb
+/Users/spdejavu/Desktop/Projects/ApiGateway/CatalogApi/obj/Debug/netcoreapp2.1/CatalogApi.csprojAssemblyReference.cache
+/Users/spdejavu/Desktop/Projects/ApiGateway/CatalogApi/obj/Debug/netcoreapp2.1/CatalogApi.csproj.CoreCompileInputs.cache
+/Users/spdejavu/Desktop/Projects/ApiGateway/CatalogApi/obj/Debug/netcoreapp2.1/CatalogApi.RazorAssemblyInfo.cache
+/Users/spdejavu/Desktop/Projects/ApiGateway/CatalogApi/obj/Debug/netcoreapp2.1/CatalogApi.RazorAssemblyInfo.cs
+/Users/spdejavu/Desktop/Projects/ApiGateway/CatalogApi/obj/Debug/netcoreapp2.1/CatalogApi.AssemblyInfoInputs.cache
+/Users/spdejavu/Desktop/Projects/ApiGateway/CatalogApi/obj/Debug/netcoreapp2.1/CatalogApi.AssemblyInfo.cs
+/Users/spdejavu/Desktop/Projects/ApiGateway/CatalogApi/obj/Debug/netcoreapp2.1/CatalogApi.RazorTargetAssemblyInfo.cache
+/Users/spdejavu/Desktop/Projects/ApiGateway/CatalogApi/obj/Debug/netcoreapp2.1/CatalogApi.dll
+/Users/spdejavu/Desktop/Projects/ApiGateway/CatalogApi/obj/Debug/netcoreapp2.1/CatalogApi.pdb

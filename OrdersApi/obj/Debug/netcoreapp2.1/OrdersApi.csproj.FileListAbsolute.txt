@@ -1,0 +1,14 @@
+/Users/spdejavu/Desktop/Projects/ApiGateway/OrdersApi/bin/Debug/netcoreapp2.1/OrdersApi.deps.json
+/Users/spdejavu/Desktop/Projects/ApiGateway/OrdersApi/bin/Debug/netcoreapp2.1/OrdersApi.runtimeconfig.json
+/Users/spdejavu/Desktop/Projects/ApiGateway/OrdersApi/bin/Debug/netcoreapp2.1/OrdersApi.runtimeconfig.dev.json
+/Users/spdejavu/Desktop/Projects/ApiGateway/OrdersApi/bin/Debug/netcoreapp2.1/OrdersApi.dll
+/Users/spdejavu/Desktop/Projects/ApiGateway/OrdersApi/bin/Debug/netcoreapp2.1/OrdersApi.pdb
+/Users/spdejavu/Desktop/Projects/ApiGateway/OrdersApi/obj/Debug/netcoreapp2.1/OrdersApi.csprojAssemblyReference.cache
+/Users/spdejavu/Desktop/Projects/ApiGateway/OrdersApi/obj/Debug/netcoreapp2.1/OrdersApi.csproj.CoreCompileInputs.cache
+/Users/spdejavu/Desktop/Projects/ApiGateway/OrdersApi/obj/Debug/netcoreapp2.1/OrdersApi.RazorAssemblyInfo.cache
+/Users/spdejavu/Desktop/Projects/ApiGateway/OrdersApi/obj/Debug/netcoreapp2.1/OrdersApi.RazorAssemblyInfo.cs
+/Users/spdejavu/Desktop/Projects/ApiGateway/OrdersApi/obj/Debug/netcoreapp2.1/OrdersApi.AssemblyInfoInputs.cache
+/Users/spdejavu/Desktop/Projects/ApiGateway/OrdersApi/obj/Debug/netcoreapp2.1/OrdersApi.AssemblyInfo.cs
+/Users/spdejavu/Desktop/Projects/ApiGateway/OrdersApi/obj/Debug/netcoreapp2.1/OrdersApi.RazorTargetAssemblyInfo.cache
+/Users/spdejavu/Desktop/Projects/ApiGateway/OrdersApi/obj/Debug/netcoreapp2.1/OrdersApi.dll
+/Users/spdejavu/Desktop/Projects/ApiGateway/OrdersApi/obj/Debug/netcoreapp2.1/OrdersApi.pdb

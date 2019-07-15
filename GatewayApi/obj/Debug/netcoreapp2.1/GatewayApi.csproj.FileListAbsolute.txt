@@ -1,0 +1,14 @@
+/Users/spdejavu/Desktop/Projects/ApiGateway/GatewayApi/bin/Debug/netcoreapp2.1/GatewayApi.deps.json
+/Users/spdejavu/Desktop/Projects/ApiGateway/GatewayApi/bin/Debug/netcoreapp2.1/GatewayApi.runtimeconfig.json
+/Users/spdejavu/Desktop/Projects/ApiGateway/GatewayApi/bin/Debug/netcoreapp2.1/GatewayApi.runtimeconfig.dev.json
+/Users/spdejavu/Desktop/Projects/ApiGateway/GatewayApi/bin/Debug/netcoreapp2.1/GatewayApi.dll
+/Users/spdejavu/Desktop/Projects/ApiGateway/GatewayApi/bin/Debug/netcoreapp2.1/GatewayApi.pdb
+/Users/spdejavu/Desktop/Projects/ApiGateway/GatewayApi/obj/Debug/netcoreapp2.1/GatewayApi.csprojAssemblyReference.cache
+/Users/spdejavu/Desktop/Projects/ApiGateway/GatewayApi/obj/Debug/netcoreapp2.1/GatewayApi.csproj.CoreCompileInputs.cache
+/Users/spdejavu/Desktop/Projects/ApiGateway/GatewayApi/obj/Debug/netcoreapp2.1/GatewayApi.RazorAssemblyInfo.cache
+/Users/spdejavu/Desktop/Projects/ApiGateway/GatewayApi/obj/Debug/netcoreapp2.1/GatewayApi.RazorAssemblyInfo.cs
+/Users/spdejavu/Desktop/Projects/ApiGateway/GatewayApi/obj/Debug/netcoreapp2.1/GatewayApi.AssemblyInfoInputs.cache
+/Users/spdejavu/Desktop/Projects/ApiGateway/GatewayApi/obj/Debug/netcoreapp2.1/GatewayApi.AssemblyInfo.cs
+/Users/spdejavu/Desktop/Projects/ApiGateway/GatewayApi/obj/Debug/netcoreapp2.1/GatewayApi.RazorTargetAssemblyInfo.cache
+/Users/spdejavu/Desktop/Projects/ApiGateway/GatewayApi/obj/Debug/netcoreapp2.1/GatewayApi.dll
+/Users/spdejavu/Desktop/Projects/ApiGateway/GatewayApi/obj/Debug/netcoreapp2.1/GatewayApi.pdb
